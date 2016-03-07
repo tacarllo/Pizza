@@ -12,6 +12,16 @@
 		3B7FC2BA1C8A148100573D51 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B7FC2B81C8A148100573D51 /* Main.storyboard */; };
 		3B7FC2BC1C8A148100573D51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3B7FC2BB1C8A148100573D51 /* Assets.xcassets */; };
 		3B7FC2BF1C8A148100573D51 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3B7FC2BD1C8A148100573D51 /* LaunchScreen.storyboard */; };
+		3B7FC2C71C8CBE2B00573D51 /* pizzaSizeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FC2C61C8CBE2B00573D51 /* pizzaSizeView.swift */; };
+		3B7FC2C91C8CC6F300573D51 /* pizzaCrustView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FC2C81C8CC6F300573D51 /* pizzaCrustView.swift */; };
+		3B7FC2CB1C8CD18400573D51 /* pizzaCheeseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FC2CA1C8CD18400573D51 /* pizzaCheeseView.swift */; };
+		3B7FC2CD1C8CD7B300573D51 /* pizzaIngredientsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FC2CC1C8CD7B300573D51 /* pizzaIngredientsView.swift */; };
+		3B7FC2CF1C8CDD3C00573D51 /* pizzaConfirmationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FC2CE1C8CDD3C00573D51 /* pizzaConfirmationView.swift */; };
+		3B7FC2D11C8CFC8100573D51 /* pizzaIngredientsView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FC2D01C8CFC8100573D51 /* pizzaIngredientsView2.swift */; };
+		3B7FC2D31C8CFDE100573D51 /* pizzaIngredientsView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FC2D21C8CFDE100573D51 /* pizzaIngredientsView3.swift */; };
+		3B7FC2D51C8CFF4E00573D51 /* pizzaIngredientsView4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FC2D41C8CFF4E00573D51 /* pizzaIngredientsView4.swift */; };
+		3B7FC2D71C8D005E00573D51 /* pizzaIngredientsView5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FC2D61C8D005E00573D51 /* pizzaIngredientsView5.swift */; };
+		3B7FC2D91C8D03CA00573D51 /* pizzaFinishedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B7FC2D81C8D03CA00573D51 /* pizzaFinishedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +32,16 @@
 		3B7FC2BB1C8A148100573D51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3B7FC2BE1C8A148100573D51 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3B7FC2C01C8A148100573D51 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3B7FC2C61C8CBE2B00573D51 /* pizzaSizeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pizzaSizeView.swift; sourceTree = "<group>"; };
+		3B7FC2C81C8CC6F300573D51 /* pizzaCrustView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pizzaCrustView.swift; sourceTree = "<group>"; };
+		3B7FC2CA1C8CD18400573D51 /* pizzaCheeseView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pizzaCheeseView.swift; sourceTree = "<group>"; };
+		3B7FC2CC1C8CD7B300573D51 /* pizzaIngredientsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pizzaIngredientsView.swift; sourceTree = "<group>"; };
+		3B7FC2CE1C8CDD3C00573D51 /* pizzaConfirmationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pizzaConfirmationView.swift; sourceTree = "<group>"; };
+		3B7FC2D01C8CFC8100573D51 /* pizzaIngredientsView2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pizzaIngredientsView2.swift; sourceTree = "<group>"; };
+		3B7FC2D21C8CFDE100573D51 /* pizzaIngredientsView3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pizzaIngredientsView3.swift; sourceTree = "<group>"; };
+		3B7FC2D41C8CFF4E00573D51 /* pizzaIngredientsView4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pizzaIngredientsView4.swift; sourceTree = "<group>"; };
+		3B7FC2D61C8D005E00573D51 /* pizzaIngredientsView5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pizzaIngredientsView5.swift; sourceTree = "<group>"; };
+		3B7FC2D81C8D03CA00573D51 /* pizzaFinishedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = pizzaFinishedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +80,16 @@
 				3B7FC2BB1C8A148100573D51 /* Assets.xcassets */,
 				3B7FC2BD1C8A148100573D51 /* LaunchScreen.storyboard */,
 				3B7FC2C01C8A148100573D51 /* Info.plist */,
+				3B7FC2C61C8CBE2B00573D51 /* pizzaSizeView.swift */,
+				3B7FC2C81C8CC6F300573D51 /* pizzaCrustView.swift */,
+				3B7FC2CA1C8CD18400573D51 /* pizzaCheeseView.swift */,
+				3B7FC2CC1C8CD7B300573D51 /* pizzaIngredientsView.swift */,
+				3B7FC2CE1C8CDD3C00573D51 /* pizzaConfirmationView.swift */,
+				3B7FC2D01C8CFC8100573D51 /* pizzaIngredientsView2.swift */,
+				3B7FC2D21C8CFDE100573D51 /* pizzaIngredientsView3.swift */,
+				3B7FC2D41C8CFF4E00573D51 /* pizzaIngredientsView4.swift */,
+				3B7FC2D61C8D005E00573D51 /* pizzaIngredientsView5.swift */,
+				3B7FC2D81C8D03CA00573D51 /* pizzaFinishedView.swift */,
 			);
 			path = Pizza;
 			sourceTree = "<group>";
@@ -96,6 +126,7 @@
 				TargetAttributes = {
 					3B7FC2B01C8A148100573D51 = {
 						CreatedOnToolsVersion = 7.2.1;
+						DevelopmentTeam = S47C82TZ5U;
 					};
 				};
 			};
@@ -136,7 +167,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				3B7FC2B71C8A148100573D51 /* ViewController.swift in Sources */,
+				3B7FC2C91C8CC6F300573D51 /* pizzaCrustView.swift in Sources */,
+				3B7FC2D71C8D005E00573D51 /* pizzaIngredientsView5.swift in Sources */,
+				3B7FC2CD1C8CD7B300573D51 /* pizzaIngredientsView.swift in Sources */,
 				3B7FC2B51C8A148100573D51 /* AppDelegate.swift in Sources */,
+				3B7FC2CF1C8CDD3C00573D51 /* pizzaConfirmationView.swift in Sources */,
+				3B7FC2D51C8CFF4E00573D51 /* pizzaIngredientsView4.swift in Sources */,
+				3B7FC2D11C8CFC8100573D51 /* pizzaIngredientsView2.swift in Sources */,
+				3B7FC2D31C8CFDE100573D51 /* pizzaIngredientsView3.swift in Sources */,
+				3B7FC2D91C8D03CA00573D51 /* pizzaFinishedView.swift in Sources */,
+				3B7FC2CB1C8CD18400573D51 /* pizzaCheeseView.swift in Sources */,
+				3B7FC2C71C8CBE2B00573D51 /* pizzaSizeView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,10 +290,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Pizza/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tacarllo.Pizza;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -260,10 +304,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Pizza/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = tacarllo.Pizza;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -286,6 +333,7 @@
 				3B7FC2C51C8A148100573D51 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
